@@ -18,6 +18,7 @@ function GoalInput({ onAddGoal, onCancel, isVisible }) {
 
   function addGoalHandler() {
     onAddGoal(enteredGoalText);
+    console.log("addGoalHandler()");
     setEnteredGoalText("");
   }
 
