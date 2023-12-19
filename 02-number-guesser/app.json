@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RNCourse",
-    "slug": "RNCourse",
+    "name": "02-number-guesser",
+    "slug": "number-guesser",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
